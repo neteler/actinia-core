@@ -25,6 +25,34 @@ Types of changes
 
 ## \[Unreleased\]
 
+## [7.1.2](https://github.com/actinia-org/actinia-core/releases/tag/7.1.2) - 2026-06-17
+released from main
+### Fixed
+* remove setuptools from requirements by @ninsbl in https://github.com/actinia-org/actinia-core/pull/732
+* Update actinia API URLs in documentation by @TaniaGithub0401 in https://github.com/actinia-org/actinia-core/pull/731
+* Enable footnotes in MkDocs documentation by @TaniaGithub0401 in https://github.com/actinia-org/actinia-core/pull/730
+* Docs cleanup deprecated plugins by @TaniaGithub0401 in https://github.com/actinia-org/actinia-core/pull/734
+* Update documentation by @TaniaGithub0401 in https://github.com/actinia-org/actinia-core/pull/729
+
+### Updated
+* fix(deps): update dependency setuptools to v82 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/708
+* chore(deps): update anchore/sbom-action digest to 57aae52 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/721
+* chore(deps): update mundialis/actinia-core docker tag to v7.1.1 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/718
+* chore(deps): update docker/metadata-action action to v6 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/719
+* chore(deps): update docker/build-push-action action to v7 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/720
+* chore(deps): update valkey/valkey docker tag to v9.1 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/722
+* fix(deps): update dependency werkzeug to v3.1.8 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/725
+* fix(deps): update dependency google-cloud-bigquery to <=3.41.0 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/726
+* chore(deps): update softprops/action-gh-release action to v3 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/727
+* fix(deps): update dependency matplotlib to v3.10.9 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/728
+* fix(deps): update dependency google-cloud-bigquery to <=3.42.0 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/736
+* chore(deps): update actions/checkout digest to df4cb1c by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/733
+* fix(deps): update dependency matplotlib to v3.11.0 by @renovate[bot] in https://github.com/actinia-org/actinia-core/pull/735
+
+## New Contributors
+* @TaniaGithub0401 made their first contribution in https://github.com/actinia-org/actinia-core/pull/729
+
+**Full Changelog**: https://github.com/actinia-org/actinia-core/compare/7.1.1...7.1.2
 
 ## [7.1.1](https://github.com/actinia-org/actinia-core/releases/tag/7.1.1) - 2026-03-05
 
